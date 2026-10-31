@@ -897,6 +897,12 @@
       "kind": "effect",
       "maintainer": "carlosedp",
       "status": "reserved"
+    },
+    {
+      "id": "acid",
+      "kind": "synth",
+      "maintainer": "blackmajinstx-del",
+      "status": "reserved"
     }
   ]
 }
